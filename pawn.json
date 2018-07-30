@@ -4,8 +4,8 @@
     "dependencies": [
         "sampctl/samp-stdlib",
         "pawn-lang/YSI-Includes",
-        "ScavengeSurvive/velocity",
-        "ScavengeSurvive/tick-difference"
+        "Dystopian-Roleplay/velocity",
+        "Dystopian-Roleplay/tick-difference"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
