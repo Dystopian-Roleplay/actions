@@ -4,7 +4,7 @@
     "dependencies": [
         "sampctl/samp-stdlib",
         "pawn-lang/YSI-Includes",
-        "Dystopian-Roleplay/velocity",
+        "Dystopian-Roleplay/velocity@2.0.0",
         "Dystopian-Roleplay/tick-difference"
     ],
     "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
